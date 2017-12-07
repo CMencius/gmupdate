@@ -1,1 +1,2 @@
 # gmupdate
+test git pull
