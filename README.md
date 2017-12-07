@@ -1,2 +1,2 @@
 # gmupdate
-test git pull
+test git pull1111
